@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.3.11222.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinearTimeInterpolator", "LinearTimeInterpolator\LinearTimeInterpolator.csproj", "{57E374EF-BAFA-448C-9F5A-B88CD7D296F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProgram", "TestProgram\TestProgram.csproj", "{3A9DD3D7-C96F-4B9A-97B2-029F0BA455BE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2142600E-6784-4624-8C04-FA9144E8A6E0}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57E374EF-BAFA-448C-9F5A-B88CD7D296F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57E374EF-BAFA-448C-9F5A-B88CD7D296F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57E374EF-BAFA-448C-9F5A-B88CD7D296F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57E374EF-BAFA-448C-9F5A-B88CD7D296F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A9DD3D7-C96F-4B9A-97B2-029F0BA455BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A9DD3D7-C96F-4B9A-97B2-029F0BA455BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A9DD3D7-C96F-4B9A-97B2-029F0BA455BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A9DD3D7-C96F-4B9A-97B2-029F0BA455BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A01796EE-6B9A-4100-9D4E-89D6AA751176}
+	EndGlobalSection
+EndGlobal
