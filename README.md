@@ -14,7 +14,7 @@ s.AddSource(2000, 10, 1, 5.0);
 // 2020-10-01 has value 20.
 s.AddSource(2020, 10, 1, 20.0);
 
-// Therefore, halfway between these two dates, i.e., 2010-10-01, should have value 12.5.
+// Therefore, halfway between these two dates, e.g., 2010-10-01, should have value 12.5.
 Console.WriteLine(Math.Round(s.GetValue(2010, 10, 1), 1));
 
 // A value close to the start date, e.g., 2001-10-01, should be close to 5.0 (actually 5.7).
